@@ -125,7 +125,6 @@ foo bar,
 
 ## 使用素材について
 
-* DEC VT100 terminal at the Living Computer Museum
-  https://en.wikipedia.org/wiki/Computer_terminal#/media/File:DEC_VT100_terminal.jpg
-  Jason Scott
-  CC BY 2.0
+* DEC VT100 terminal at the Living Computer Museum  
+  https://en.wikipedia.org/wiki/Computer_terminal#/media/File:DEC_VT100_terminal.jpg  
+  Jason Scott CC BY 2.0
