@@ -193,6 +193,16 @@ end
   * Gmail(XOAuth2)に対応
   * Groongaで全文検索
 
+## デモ
+
+```ruby
+set_fontsize 46
+delete_other_windows
+Mournmail.current_account = "localhost"
+CONFIG[:mournmail_summary_lines] = 4
+mournmail
+```
+
 ## Webのフォーム編集
 
 * textbringer-ghost_text
