@@ -155,7 +155,11 @@ end
 ## デモ
 
 ```ruby
-# upcase_regionを実装する準備
+# upcase_regionを作る
+# リージョン(選択範囲)内の文字を大文字にする
+# キーバインドはC-x C-u
+
+# 開発しやすいようにカレントディレクトリを変更
 chdir "~/src/textbringer"
 ```
 
