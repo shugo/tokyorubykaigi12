@@ -163,7 +163,7 @@ end
 chdir "~/src/textbringer"
 ```
 
-## Rubyのよさ
+## Rubyの特徴
 
 * ダイナミック
   * evalがある
@@ -225,6 +225,7 @@ mournmail
 ## プレゼンテーション
 
 * textbringer-presentation
+  * 今みなさんが見ているこれ
   * プレゼンテーション用プラグイン
   * Sixelで画像を表示
 
