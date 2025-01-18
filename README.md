@@ -102,7 +102,7 @@
 
 ```ruby
 if cond1 &&
-    cond2
+   cond2
   body
 end
 ```
@@ -154,7 +154,10 @@ end
 
 ## デモ
 
-* upcase_regionを実装する
+```ruby
+# upcase_regionを実装する準備
+chdir "~/src/textbringer"
+```
 
 ## Rubyのよさ
 
